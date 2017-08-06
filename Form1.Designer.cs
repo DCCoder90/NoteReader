@@ -86,7 +86,7 @@
             this.notesLabel.AutoSize = true;
             this.notesLabel.Location = new System.Drawing.Point(57, 44);
             this.notesLabel.Name = "notesLabel";
-            this.notesLabel.Size = new System.Drawing.Size(0, 13);
+            this.notesLabel.Size = new System.Drawing.Size(35, 13);
             this.notesLabel.TabIndex = 4;
             this.notesLabel.Text = "TEST";
             // 
